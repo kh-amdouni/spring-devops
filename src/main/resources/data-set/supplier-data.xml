@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <supplier
+            ID_SUPPLIER = "1"
+            code = "azza"
+            label = "kouka"
+    />
+</dataset>
+
+
